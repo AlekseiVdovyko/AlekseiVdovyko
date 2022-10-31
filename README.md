@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://arivamuthu.files.wordpress.com/2015/07/wpid-java-aluminum-icon.png" width="150"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 </div>
